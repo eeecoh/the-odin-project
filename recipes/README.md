@@ -1,27 +1,15 @@
 
-# Learn by doing 
+## Brief 
 
-This is the start of my developer journey from zero to web3 developer.
+In this project, you are going to build a basic recipe website.
 
-Thank you for viewing.
+The website will consist of a main index page which will have links to a few recipes.
 
+## Recipe Page Content
+The recipe page should have the following content:
 
-
-
-
-
-## FAQ
-
-#### What is The Odin Project?
-
-The Odin Project (TOP) is an open-source curriculum for learning full-stack web development. We help users learn the skills and build the impressive portfolio of projects they need to get hired as a web developer.
-
-#### How you can get started?
-
-Visit [The Odin Project](https://theodinproject.com)
-
-
-## 🚀 About Me
-I'm Rico, a graphic designer in London who has decided to transition to web development in order to become a full stack dApp developer.
-
+- An image of the finished dish under the h1 heading that you added earlier. You can find images of the dish on Google or the recipe site we linked to earlier.
+- Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
+- Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
+- Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
 
